@@ -1,5 +1,5 @@
 {
-  "name": "money-tracker-budget-policy",
+  "name": "money-expense-manager-policy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

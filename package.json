@@ -1,5 +1,5 @@
 {
-  "name": "money-expense-manager-policy",
+  "name": "loan-interest-calculator-policy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

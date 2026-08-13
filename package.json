@@ -1,5 +1,5 @@
 {
-  "name": "loan-interest-calculator-policy",
+  "name": "money-wallet-budget-tracker-policy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

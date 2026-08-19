@@ -19,8 +19,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Money Budget: Expense Planner" className="logo-img" />
-                <span className="studio-name">Money Budget: Expense Planner</span>
+                <img src={logoImg} alt="Money Tracker: Budget App" className="logo-img" />
+                <span className="studio-name">Money Tracker: Budget App</span>
               </div>
             </div>
 
@@ -41,12 +41,12 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Money Budget: Expense Planner</h2>
-            <p className="about-text">Money Budget: Expense Planner is a simple, reliable, and easy-to-use personal finance app. It helps you manage your money with confidence — tracking everyday income and expenses, planning budgets, and understanding your spending through clear statistics. The app is designed with privacy and user experience in mind, keeping your financial data on your own device while delivering intuitive navigation and practical value.
+            <h2 className="highlight-title">Money Tracker: Budget App</h2>
+            <p className="about-text">Money Tracker: Budget App is a simple, reliable, and easy-to-use personal finance app. It helps you manage your money with confidence — tracking everyday income and expenses, planning budgets, and understanding your spending through clear statistics. The app is designed with privacy and user experience in mind, keeping your financial data on your own device while delivering intuitive navigation and practical value.
             </p>
           </div>
           <div className="about-img-container">
-            <img src={bannerApp} alt="Money Budget: Expense Planner" className="about-img" />
+            <img src={bannerApp} alt="Money Tracker: Budget App" className="about-img" />
           </div>
         </div>
       </section>
@@ -66,7 +66,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Money Budget: Expense Planner. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Money Tracker: Budget App. All rights reserved.</p>
           </div>
         </footer>
       </div>
